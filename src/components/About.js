@@ -1,5 +1,23 @@
 import React from "react"
+import aboutmebg from "../Assets/aboutmebg.png"
+import hiking1 from "../Assets/hiking1.jpg"
 
 export default function About() {
-    return <h1>About Me</h1>
+    return(
+        <main className="relative">
+            <img src={aboutmebg} alt="Textured color bg" className="absolute w-full"/>
+            <div className="p-10 lg:pt-48 container mx-auto relative">
+                <section className="bg-blue-150 rounded-lg shadow-2xl lg:flex p-20">
+                    <img src={hiking1} />
+                    <div>
+                        <h1 className="text-4xl text-white justify-center mb-4">
+                            Nancy Gonzalez</h1>
+                        <div className="text-white justify-center">
+                        My name is Nancy and I was born and raised in Los Angeles. I was first introduced to coding back when MySpace was popular and everyone wanted to have the best layout. After doing some research I realized I could personalize my profile by altering the code and I was drawn into learning more. I liked that I could create something creating something based off what I had pictured in my head. That's why I like coding because if you can imagine it you can probably code it!
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </main>
+    )
 }

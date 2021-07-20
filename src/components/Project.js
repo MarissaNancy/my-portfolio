@@ -1,8 +1,10 @@
-import React, {useEffect, useState} from "react";
+import React from "react";
 
+export default function Project( { id, title, github, deploylink, image, summary, technologies }) {
 
-export default function Project() {
-    const [project, setProject] = useState(null);
+    const cardId = "project" + id
+    const target = "#" + cardId;
+   
     
     return (
         <main className="bg-purple-300 min-h-screen p-12">
@@ -12,15 +14,14 @@ export default function Project() {
                 <section className="grid grid-cols-2 gap-8">
                     <article className="relative rounded-lg shadow-xl p-16">
                         <h3 className="text-white text-3xl mb-3">
-                            <a>
-                            </a>
+                            {title}
                         </h3>
                         <div>
-                            <span></span>
-                            <span></span>
-                            <span></span>
-                            <p></p>
-                            <span></span>
+                            <img src={image} />
+                            <p>{summary}</p>
+                            <span>{github}</span>
+                            <span>{deploylink}</span>
+                            <span>{technologies}</span>
                         </div>
                     </article>
                 </section>

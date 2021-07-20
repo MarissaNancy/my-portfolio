@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "Givehub",
+        "github": "https://github.com/agonzalvez/givehub",
+        "deploylink": "https://upper-beaver-88035.herokuapp.com/",
+        "image": "",
+        "summary": "A way to find charities that align with causes that you're passionate about",
+        "technologies": "Javascript, Handlebars"
+    },
+    {
+        "id": 2,
+        "title": "Employee Tracker",
+        "github": "https://github.com/MarissaNancy/EmployeeTracker",
+        "deploylink": "https://drive.google.com/file/d/1N0xXUJDnmwJfWMG5nNucWNWv8Nhce_3G/view?usp=sharing",
+        "image": "",
+        "summary": "An employee managing system where you can view and manage by departments",
+        "technologies": "Javascript, MySQL, Node, Inquierer"
+    },
+    {
+        "id": 3,
+        "title": "E-Commerce",
+        "github": "https://github.com/MarissaNancy/E-Commerce",
+        "deploylink": "",
+        "image": "",
+        "summary": "Back-end focused app to help manage internet retail",
+        "technologies": "Express.js, Sequalize, MySQL, Javascript"
+    },
+    {
+        "id": 4,
+        "title": "Fitness Tracker",
+        "github": "https://github.com/MarissaNancy/Fitness-Tracker",
+        "deploylink": "https://sleepy-forest-97884.herokuapp.com/?id=60f1b644699b1c36a4174372",
+        "image": "",
+        "summary": "Back-end focused app made to track daily workouts",
+        "technologies": "MongoDB, Express"
+    },
+    {
+        "id": 5,
+        "title": "Roadtrip App",
+        "github": "https://github.com/henryparras24/roadtrip",
+        "deploylink": "https://henryparras24.github.io/roadtrip/",
+        "image": "",
+        "summary": "An app designed to make your roadtrip more enjoyable! Enter a city to find more!",
+        "technologies": "Javascript, HTML"
+    },
+    {
+        "id": 6,
+        "title": "Feel Your Feelings",
+        "github": "https://github.com/MarissaNancy/feel-your-feelings",
+        "deploylink": "",
+        "image": "",
+        "summary": "A space where you can enjoy your mood or make it better!",
+        "technologies": "MongoDB, React"
+    }
+]
