@@ -4,7 +4,7 @@
         "title": "Givehub",
         "github": "https://github.com/agonzalvez/givehub",
         "deploylink": "https://upper-beaver-88035.herokuapp.com/",
-        "image": "",
+        "image": "./image/PJ1.png",
         "summary": "A way to find charities that align with causes that you're passionate about",
         "technologies": "Javascript, Handlebars"
     },
@@ -31,7 +31,7 @@
         "title": "Fitness Tracker",
         "github": "https://github.com/MarissaNancy/Fitness-Tracker",
         "deploylink": "https://sleepy-forest-97884.herokuapp.com/?id=60f1b644699b1c36a4174372",
-        "image": "",
+        "image": "./image/PJ4.png",
         "summary": "Back-end focused app made to track daily workouts",
         "technologies": "MongoDB, Express"
     },
@@ -40,7 +40,7 @@
         "title": "Roadtrip App",
         "github": "https://github.com/henryparras24/roadtrip",
         "deploylink": "https://henryparras24.github.io/roadtrip/",
-        "image": "",
+        "image": "./image/PJ5.png",
         "summary": "An app designed to make your roadtrip more enjoyable! Enter a city to find more!",
         "technologies": "Javascript, HTML"
     },
