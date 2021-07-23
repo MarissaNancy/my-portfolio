@@ -14,3 +14,4 @@ Given when I click on a link and I am taken to the corresponding link
 ## Mock Up
 (![This is what my page looks like ](./src/Assets/homePg.png))
 (![This is what my project page looks like ](./src/Assets/projects.png))
+Here is the link to my deployed porfolio made with react: https://marissanancy.github.io/my-portfolio/
