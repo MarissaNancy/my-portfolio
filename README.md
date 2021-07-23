@@ -12,3 +12,4 @@ Given when the projects have the title included, links to repo, and a screenshot
 Given when I click on a link and I am taken to the corresponding link
 
 ## Mock Up
+(![This is what my page looks like ](./Assets/Portfoliopg1.png))

@@ -1,10 +1,11 @@
 import React from "react"
-
+import bg1 from "../Assets/bg1.png"
 import { SocialIcon } from "react-social-icons";
 
 export default function Contact() {
     return(
-        <main className="bg-red-300 justify-center min-h-screen pt-12 lg:pt-64 px-8">
+        <main>
+            <img src={bg1} alt="purple background" className="absolute object-cover w-full h-full"/>
             <div className="text-white text-4xl mb-3 flex justify-center"><h3>Click on the icons to connect with me!</h3></div>
             <div className=" rounded-lg shadow-xl p-16">
                 <SocialIcon url="https://github.com/MarissaNancy" className="mr-4" target="_blank" style={{ height: 70, width: 70}} />

@@ -4,6 +4,7 @@ import About from "./components/About";
 import Project from "./components/Project";
 import Contact from "./components/Contact";
 import NavBar from "./components/NavBar";
+import Footer from "./components/Footer"
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Route component={Project} path="/project" />
         <Route component={Contact} path="/contact" />
       </Switch>
+      <Footer />
     </BrowserRouter>
   );
 }

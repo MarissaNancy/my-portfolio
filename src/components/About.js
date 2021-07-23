@@ -1,10 +1,11 @@
 import React from "react"
-import aboutmebg from "../Assets/aboutmebg.png"
 import hiking1 from "../Assets/hiking1.jpg"
+import bg1 from "../Assets/bg1.png"
 
 export default function About() {
     return(
-        <main className="relative bg-red-300 min-h-screen p-12">
+        <main>
+            <img src={bg1} alt="purple background" className="absolute object-cover w-full h-full"/>
             <div className="p-10 lg:pt-48 container mx-auto relative">
                 <section className="rounded-lg shadow-2xl lg:flex p-20">
                     <img src={hiking1} className="rounded w-50 h-50 lg:w-64 lg:h-64 mr-8" alt="mountains in nature"/>
