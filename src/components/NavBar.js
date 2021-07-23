@@ -6,7 +6,7 @@ export default function NavBar() {
     return (
         <header className="bg-blue-400">
             <div className="container mx-auto flex justify-around">
-                <nav>
+                <nav className="text-3xl">
                     <NavLink to="/" exact className="inflex-flex items-center py-6 px-3 mr-4 text-white ">
                         Home
                     </NavLink>
@@ -21,8 +21,8 @@ export default function NavBar() {
                     </NavLink>
                 </nav>
                 <div>
-                    <SocialIcon url="https://github.com/MarissaNancy" className="mr-4" target="_blank" style={{ height: 30, width: 30}} />
-                    <SocialIcon url="https://www.linkedin.com/in/nancy-m-gonzalez/" className="mr-4" target="_blank" style={{ height: 30, width: 30}}/>
+                    <SocialIcon url="https://github.com/MarissaNancy" className="mr-4" target="_blank" style={{ height: 50, width: 50}} />
+                    <SocialIcon url="https://www.linkedin.com/in/nancy-m-gonzalez/" className="mr-4" target="_blank" style={{ height: 50, width: 50}}/>
                     </div>
             </div>
         </header>
