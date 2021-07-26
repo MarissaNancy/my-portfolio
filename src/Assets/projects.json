@@ -4,7 +4,7 @@
         "title": "Givehub",
         "github": "https://github.com/agonzalvez/givehub",
         "deploylink": "https://upper-beaver-88035.herokuapp.com/",
-        "image": "./image/PJ1.png",
+        "image": "https://i.ibb.co/qRG4zkX/PJ1.png",
         "summary": "A fullstack app that helps you find charities that align with causes that you're passionate about"
     },
     {
@@ -12,7 +12,7 @@
         "title": "Employee Tracker",
         "github": "https://github.com/MarissaNancy/EmployeeTracker",
         "deploylink": "https://drive.google.com/file/d/1N0xXUJDnmwJfWMG5nNucWNWv8Nhce_3G/view?usp=sharing",
-        "image": "./image/empTracker.png",
+        "image": "https://i.ibb.co/fYkGhWK/emp-Tracker.png",
         "summary": "A NoSQL employee managing system where you can view and manage by departments"
     },
     {
@@ -20,7 +20,7 @@
         "title": "E-Commerce",
         "github": "https://github.com/MarissaNancy/E-Commerce",
         "deploylink": "",
-        "image": "./image/commerce.png",
+        "image": "https://i.ibb.co/vdHyXRj/commerce.png",
         "summary": "A back-end focused app to help manage internet retail"
     },
     {
@@ -28,7 +28,7 @@
         "title": "Fitness Tracker",
         "github": "https://github.com/MarissaNancy/Fitness-Tracker",
         "deploylink": "https://sleepy-forest-97884.herokuapp.com/?id=60f1b644699b1c36a4174372",
-        "image": "./image/PJ4.png",
+        "image": "https://i.ibb.co/pfysfcy/PJ4.png",
         "summary": "A back-end MongoDB focused app made to track daily workouts"
     },
     {
@@ -36,7 +36,7 @@
         "title": "Roadtrip App",
         "github": "https://github.com/henryparras24/roadtrip",
         "deploylink": "https://henryparras24.github.io/roadtrip/",
-        "image": "./image/PJ5.png",
+        "image": "https://i.ibb.co/2STmFwX/PJ5.png",
         "summary": "An app designed to make your roadtrip more enjoyable! Enter a city to find more!"
     },
     {
@@ -44,7 +44,7 @@
         "title": "Feel Your Feelings",
         "github": "https://github.com/MarissaNancy/feel-your-feelings",
         "deploylink": "",
-        "image": "",
+        "image": "https://i.ibb.co/0mcTTPv/home.png",
         "summary": "A space where you can enjoy your mood or make it better!"
     }
 ]
