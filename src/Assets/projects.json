@@ -1,11 +1,11 @@
 [
     {
         "id": 1,
-        "title": "Givehub",
-        "github": "https://github.com/agonzalvez/givehub",
-        "deploylink": "https://upper-beaver-88035.herokuapp.com/",
-        "image": "https://i.ibb.co/qRG4zkX/PJ1.png",
-        "summary": "A fullstack app that helps you find charities that align with causes that you're passionate about"
+        "title": "Feel Your Feelings",
+        "github": "https://github.com/MarissaNancy/feel-your-feelings",
+        "deploylink": "",
+        "image": "https://i.ibb.co/0mcTTPv/home.png",
+        "summary": "A space where you can enjoy your mood or make it better!"
     },
     {
         "id": 2,
@@ -41,10 +41,10 @@
     },
     {
         "id": 6,
-        "title": "Feel Your Feelings",
-        "github": "https://github.com/MarissaNancy/feel-your-feelings",
-        "deploylink": "",
-        "image": "https://i.ibb.co/0mcTTPv/home.png",
-        "summary": "A space where you can enjoy your mood or make it better!"
+        "title": "Givehub",
+        "github": "https://github.com/agonzalvez/givehub",
+        "deploylink": "https://upper-beaver-88035.herokuapp.com/",
+        "image": "https://i.ibb.co/qRG4zkX/PJ1.png",
+        "summary": "A fullstack app that helps you find charities that align with causes that you're passionate about"
     }
 ]
