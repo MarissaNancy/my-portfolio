@@ -1,5 +1,6 @@
 import React from "react"
 import hiking1 from "../Assets/hiking1.jpg"
+import AboutMe from "./AboutMe"
 
 export default function About() {
     return(
@@ -9,10 +10,13 @@ export default function About() {
                     <img src={hiking1} className="rounded w-50 h-50 lg:w-64 lg:h-64 mr-8" alt="mountains in nature"/>
                     <div>
                         <h1 className="text-4xl justify-center mb-4 text-white">
-                        A little bit about me:
+                        About me:
                         </h1>
                         <div className="text-2xl  justify-center text-white">
                         My name is Nancy and I was born and raised in Los Angeles. I was first introduced to coding back when MySpace was popular and everyone wanted to have the best layout. After doing some research I realized I could personalize my profile by altering the code and I was drawn into learning more. I liked that I could create something creating something based off what I had pictured in my head. That's why I like coding because if you can imagine it you can probably code it!
+                        </div>
+                        <div>
+                            <AboutMe />
                         </div>
                     </div>
                 </section>
