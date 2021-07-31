@@ -8,12 +8,12 @@ export default function About() {
             <div className="p-10 lg:pt-48 container mx-auto relative">
                 <section className="rounded-lg shadow-2xl lg:flex p-20 ">
                     <img src={hiking1} className="rounded w-50 h-50 lg:w-64 lg:h-64 mr-8" alt="mountains in nature"/>
-                    <div>
+                    <div className="bg-pink">
                         <h1 className="text-4xl justify-center mb-4 text-white">
                         About me:
                         </h1>
                         <div className="text-2xl  justify-center text-white">
-                        My name is Nancy and I was born and raised in Los Angeles. I was first introduced to coding back when MySpace was popular and everyone wanted to have the best layout. After doing some research I realized I could personalize my profile by altering the code and I was drawn into learning more. I liked that I could create something creating something based off what I had pictured in my head. That's why I like coding because if you can imagine it you can probably code it!
+                        My name is Nancy and I am a passionate full stack web developer. Graduate from the University of California, Los Angeles with a Web Development Certificate. Strong ability to design websites utilizing a combination of strong communication, analytical skills, research and problem solving skills. Other newly developed skills in Javascript, React, and responsive web design. My interest include developing data-basses, back-end development, and building meaningful user friendly websites!
                         </div>
                         <div>
                             <AboutMe />
