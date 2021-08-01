@@ -23,7 +23,7 @@
         "summary": "A back-end focused app to help manage internet retail. Developed using Express.js, API, and Sequalize to connect with the MySql Database. Routes for API Post, Put, and Delete created and can be tested on postman",
         "github": "https://github.com/MarissaNancy/E-Commerce",
         "deploylink": "",
-        "image": "https://i.ibb.co/vdHyXRj/commerce.png",
+        "image": "https://i.ibb.co/QKhLFGK/PJ3.png",
         "technologies": "Express.js , API, Sequalize, MySQL, Javascript"
         
     },
@@ -33,7 +33,7 @@
         "summary": "A back-end focused app made to track daily workouts. Fitness tracker will allow users to create new workout, continue a workout, and collects stats from workout created. Users can also view their stats and past seven workouts. API routes created to connect developed front-end with created backend MongoDB database ",
         "github": "https://github.com/MarissaNancy/Fitness-Tracker",
         "deploylink": "https://sleepy-forest-97884.herokuapp.com/?id=60f1b644699b1c36a4174372",
-        "image": "https://i.ibb.co/pfysfcy/PJ4.png",
+        "image": "https://i.ibb.co/j5sZ4FT/ftrack.png",
         "technologies": "MongoDB, Express.js, Javascript, Node"
     },
     {

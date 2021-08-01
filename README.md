@@ -1,4 +1,5 @@
-# React Portfolio
+# React Portfolio 🖥️👩‍💻
+![GitHub license](https://img.shields.io/badge/license-MIT-pink.svg) 
 
 ## Description
 For this assignment we will be developing our portfolio and creating a react porfolio. In creating a react portfolio I will be using the latest technologies and practice everything I have learned so far.
@@ -11,7 +12,17 @@ Given when I open the portfolio and am presented with at least six projects that
 Given when the projects have the title included, links to repo, and a screenshot of the deployed application
 Given when I click on a link and I am taken to the corresponding link
 
+## Tools and Technologies
+- React
+- CSS
+- Express
+- Tailwind CSS
+- React-DOM
+
+## Usage 
+*Instructions and examples for use:* 
+> **To use this application**: visit deployed link [Link](https://marissanancy.github.io/my-portfolio/)
+
 ## Mock Up
 (![This is what my page looks like ](./src/Assets/homePg.png))
 (![This is what my project page looks like ](./src/Assets/projects.png))
-Here is the link to my deployed porfolio made with react: https://marissanancy.github.io/my-portfolio/

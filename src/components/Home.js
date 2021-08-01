@@ -9,7 +9,7 @@ export default function Home() {
                 <h1 className="text-6xl text-gray-800 leading-none lg:leading-snug flex justify-center ">Welcome to Nancy's portfolio!</h1>
                 <div>
                 <p className="text-3xl text-gray-800 flex justify-center m-5">
-                Full-stack well developer with a focus on back-end development and an interest in React. This portfolio was built with React, React-DOM, Javascript, and React Social Icons. Navigate to my projects page to learn more about my other work and click on my other links to connect with me!                </p>
+                Full-stack web developer with a focus on back-end development and an interest in React. This portfolio was built with React, React-DOM, Javascript, and React Social Icons. Navigate to my projects page to learn more about my other work and click on my other links to connect with me!</p>
                 </div>
             </section>
         
