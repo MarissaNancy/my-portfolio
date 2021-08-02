@@ -20,9 +20,9 @@ Given when I click on a link and I am taken to the corresponding link
 - React-DOM
 
 ## Usage 
-*Instructions and examples for use:* 
-> **To use this application**: visit deployed link [Link](https://marissanancy.github.io/my-portfolio/)
+ 
+> **To view this application**: visit deployed [Link](https://marissanancy.github.io/my-portfolio/)
 
 ## Mock Up
-(![This is what my page looks like ](./src/Assets/homePg.png))
-(![This is what my project page looks like ](./src/Assets/projects.png))
+![This is what my page looks like ](./src/Assets/homePg.png)
+![This is what my project page looks like ](./src/Assets/projects.png)
