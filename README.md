@@ -25,4 +25,4 @@ Given when I click on a link and I am taken to the corresponding link
 
 ## Mock Up
 ![This is what my page looks like ](./src/Assets/homePg.png)
-![This is what my project page looks like ](./src/Assets/projects.png)
+![This is what my project page looks like ](./src/Assets/pjs.png)
