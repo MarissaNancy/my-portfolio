@@ -21,8 +21,8 @@ Given when I click on a link and I am taken to the corresponding link
 
 ## Usage 
  
-> **To view this application**: visit deployed [Link](https://marissanancy.github.io/my-portfolio/)
+> **To view my application**: visit deployed [Link](https://marissanancy.github.io/my-portfolio/)
 
 ## Mock Up
-![This is what my page looks like ](./src/Assets/homePg.png)
+![This is what my page looks like ](./src/Assets/home.png)
 ![This is what my project page looks like ](./src/Assets/pjs.png)
