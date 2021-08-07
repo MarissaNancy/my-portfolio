@@ -4,19 +4,19 @@ import { SocialIcon } from "react-social-icons";
 
 export default function NavBar() {
     return (
-        <header className="bg-red-300 rounded-lg">
+        <header className="bg-green-900 rounded-lg">
             <div className="container mx-auto flex justify-around">
                 <nav className="text-3xl">
-                    <NavLink to="/" exact className="inflex-flex items-center py-6 px-3 mr-4 text-gray-800 ">
+                    <NavLink to="/" exact className="inflex-flex items-center py-6 px-3 mr-4 text-gray-900 font-bold ">
                         Home
                     </NavLink>
-                    <NavLink to="/about" className="inflex-flex items-center py-6 px-3 mr-4 text-gray-800 ">
-                        About Me!
+                    <NavLink to="/about" className="inflex-flex items-center py-6 px-3 mr-4 text-gray-900 font-bold ">
+                        About Me
                     </NavLink>
-                    <NavLink to="/project" className="inflex-flex items-center py-6 px-3 mr-4 text-gray-800 ">
+                    <NavLink to="/project" className="inflex-flex items-center py-6 px-3 mr-4 text-gray-900 font-bold ">
                         Projects
                     </NavLink>
-                    <NavLink to="/contact" className="inflex-flex items-center py-6 px-3 mr-4 text-gray-800 ">
+                    <NavLink to="/contact" className="inflex-flex items-center py-6 px-3 mr-4 text-gray-900 font-bold ">
                         Contact
                     </NavLink>
                 </nav>

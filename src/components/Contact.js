@@ -4,11 +4,11 @@ import ResumeLink from "./ResumeLink";
 
 export default function Contact() {
     return(
-        <main className="bg-gray-500 bg-opacity-900 min-h-screen p-12">
+        <main className="bg-gray-900 bg-opacity-900 min-h-screen p-12">
             <div className="text-4xl mb-3 flex justify-center text-white font-bold">
                 <h3>Click on the icons to connect with me!</h3>
             </div>
-            <div className="gap-8 rounded-lg shadow-xl p-16 ">
+            <div className="bg-green gap-8 rounded-lg shadow-xl p-16 ">
             <ResumeLink />
             </div>
             <div className="gap-8 rounded-lg shadow-xl p-16 ">
