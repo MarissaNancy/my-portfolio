@@ -6,7 +6,7 @@ export default function About() {
     return(
         <main className="bg-gray-800 min-h-screen p-12">
             <div className="rounded-lg p-10 lg:pt-48 container mx-auto relative">
-                <section className="rounded-lg shadow-2xl lg:flex p-20 ">
+                <section className="rounded-lg shadow-2xl lg:flex p-20 bg-gray-700 ">
                     <img src={hiking1} className="rounded-lg w-50 h-50 lg:w-64 lg:h-64 mr-8" alt="mountains in nature"/>
                     <div className="bg-pink">
                         <h1 className="text-4xl justify-center mb-4 text-white">

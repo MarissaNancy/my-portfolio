@@ -5,8 +5,8 @@ import ProjectCard from "./ProjectCard";
 export default function Project() {
     
     return (
-        <main className="bg-gray-500 bg-opacity-900 min-h-screen p-12">
-            <section className="container mx-auto text-gray-800">
+        <main className="bg-gray-700 min-h-screen p-12">
+            <section className="container mx-auto">
                 <h1 className="text-4xl flex justify-center text-white font-bold">My Projects </h1>
                 <h2 className="text-2xl text-white flex justify-center mb-12">Here are some of my projects</h2>
                 <section className="text-white grid grid-cols-2 gap-8 text-2xl font-bold text-center break-words">

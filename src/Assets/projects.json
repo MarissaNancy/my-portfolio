@@ -50,9 +50,9 @@
         "title": "Roadtrip App",
         "github": "https://github.com/henryparras24/roadtrip",
         "deploylink": "https://henryparras24.github.io/roadtrip/",
-        "image": "https://i.ibb.co/2STmFwX/PJ5.png",
-        "summary": "An app designed to make your roadtrip more enjoyable! Enter a city to find more!",
-        "technologies": "APi"
+        "image": "https://i.ibb.co/dcmJkyT/rt.png",
+        "summary": "The Roatrip App is designed to make your roadtrip more enjoyable! When building this our goal was to take the hassle out of having to use multiple apps during a roadtrip so that they can better enjoy the trip! A user can search for a city and they will be presented with places to get coffee, hotels, gas stations, and places to eat. ",
+        "technologies": "Yelp API, Javascript, HTML, CSS, Spotify API "
         
     }
 ]
