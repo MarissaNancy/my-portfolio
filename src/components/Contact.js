@@ -12,16 +12,16 @@ export default function Contact() {
             <ResumeLink />
             </div>
             <div className="bg-gray-700 mb-12 rounded-lg shadow-xl p-16 ">
-                <SocialIcon url="mailto:nancy.m.gonzalez.j@gmail.com" className="mr-4" target="_blank" style={{ height: 70, width: 70}} />
-                <p className="text-white flex justify-center font-bold text-2xl">Click on the email icon to send an email!</p>
+                <p className="text-white flex justify-center font-bold text-2xl">Email me at :</p>
+                <p className="text-blue-400 flex justify-center font-bold text-3xl"> nancy.m.gonzalez.j@gmail.com</p>
             </div>
             <div className="bg-gray-700 mb-12 rounded-lg shadow-xl p-16 text-2xl">
                 <SocialIcon url="https://github.com/MarissaNancy" className="mr-4 " target="_blank" style={{ height: 70, width: 70}} />
-                <p className="text-white flex justify-center font-bold">This is the link to my github. Here you can checkout more of my projects and my code as well as other things I am currently working on</p>
+                <p className="text-white flex justify-center font-bold">This my github! Here you can checkout more of my projects and code as well as other things I am currently working on</p>
             </div>
             <div className="bg-gray-700 mb-12 rounded-lg shadow-xl p-16 text-2xl">
             <SocialIcon url="https://www.linkedin.com/in/nancy-m-gonzalez/" className="mr-4" target="_blank" style={{ height: 70, width: 70}} />
-            <p className="text-white flex justify-center font-bold">This is the link to my linkedin. Here you can checkout more of my work as well as other things I am currently working on</p>
+            <p className="text-white flex justify-center font-bold">This is the link to my linkedin. Here you can connect with me and checkout more of my work</p>
             </div>
         </main>
     )
